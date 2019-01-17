@@ -1,7 +1,7 @@
 # ProjectEuler
 Project Euler - Problem and and answers in C#
 
-## Problem 8 - Largest product in a series
+## Problem 8 - Largest product in a series in c#
  ### Problem
  The four adjacent digits in the 1000-digit number that have the greatest product are 9 × 9 × 8 × 9 = 5832.
 
