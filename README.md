@@ -1,5 +1,5 @@
 # ProjectEuler
-Project Euler - Problem and and answers in C#
+Project Euler - Problem statement and and answers solved in C#
 
 ## Problem 8 - Largest product in a series in c#
  ### Problem
